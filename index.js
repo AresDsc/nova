@@ -62,4 +62,4 @@ message.react("<:EmoteWarning:987025660277039144>");
     }
 });
 
-client.login("process.env.TOKEN");
+client.login(process.env.TOKEN);
